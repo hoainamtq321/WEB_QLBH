@@ -19,6 +19,9 @@
   - Đăng nhập / đăng xuất.
   - Đổi mật khẩu.
   - Cập nhật thông tin.
+ - Usecase tổng quát
+![image](https://github.com/user-attachments/assets/b476483e-0468-4589-9e12-c43e80ae4ee4)
+
  ## Công nghệ sử dụng
  - Font-end:
    - Giao diện sử dụng HTML/CSS/JS tham khảo -> https://themewagon.com/

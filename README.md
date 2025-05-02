@@ -33,5 +33,58 @@
    - Laravel Middleware được sử dụng để quản lý phiên làm việc (session), xác thực người dùng và phân quyền truy cập.
  ## Demo
  - Giao diện đăng nhập
- - Giao diện 
+![image](https://github.com/user-attachments/assets/9cdc8c12-5a8c-486d-aab6-5f310957cc33)
+
+ - Giao trang chủ
+![image](https://github.com/user-attachments/assets/55faac7d-fd1d-4ea3-a8b8-fcd280d89ece)
+ - Giao diện quản lý khách hàng
+![image](https://github.com/user-attachments/assets/58d752c1-51c8-4db3-bebc-1a6ae58f5464)
+   - Thêm khách hàng
+     ![image](https://github.com/user-attachments/assets/bf134e24-7349-416e-9509-31a47bdfe57c)
+
+   - Cập nhật thông tin khách hàng
+     ![image](https://github.com/user-attachments/assets/ddb3b349-e10e-4a9e-b2b1-6cdb8a75b2e5)
+
+   - dfdf
+ - Giao diện quản lý đơn hàng
+![image](https://github.com/user-attachments/assets/99c013c4-404a-409f-a164-3746a854f7cd)
+   - Tạo đơn
+  ![image](https://github.com/user-attachments/assets/030bac90-0b2b-4370-aff5-04e056488bc9)
+
+   - Cập nhật đơn
+  ![image](https://github.com/user-attachments/assets/f000c281-35db-4ce7-8882-f41112492284)
+
+ - Giao diện quản lý sản phẩm
+![image](https://github.com/user-attachments/assets/903e6830-0459-4f76-bab7-465ac9f1b149)
+
+   - Thêm sản phẩm
+   ![image](https://github.com/user-attachments/assets/154119f2-04b5-4d70-9c92-7184a2b2d28f)
+
+   - Sửa sản phẩm
+   ![image](https://github.com/user-attachments/assets/29c453fb-b04f-425a-adf1-7abffa24e5da)
+
+   - Danh sách phiếu nhập hàng
+  ![image](https://github.com/user-attachments/assets/5898b336-a3a8-4ea8-91e1-103ca1b70432)
+   - Tạo phiếu nhập
+  ![image](https://github.com/user-attachments/assets/4d6c6cb4-f163-4afe-9bf7-2a9c332eaa77)
+   - Cập nhật phiếu nhập
+  
+   - Danh sách phiếu kiểm hàng
+   ![image](https://github.com/user-attachments/assets/70855fd0-2e95-4763-8c12-559914cb0197)
+   - Tạo phiếu kiểm hàng
+  ![image](https://github.com/user-attachments/assets/d3909c88-9485-42e1-a3d2-53204e2f23dd)
+   - Cập nhật phiếu kiểm hàng
+   ![image](https://github.com/user-attachments/assets/15c6d666-6d40-4602-bcd2-902793d4e8ea)
+   - Danh sách nhà cung cấp
+   ![image](https://github.com/user-attachments/assets/6496a52e-602c-4a30-90e3-cc22b83e5af0)
+   - Thêm nhà cung cấp
+   ![image](https://github.com/user-attachments/assets/e44369b4-b719-46b5-817f-39e26a241063)
+
+ - Giao diện báo cáo
+    ![image](https://github.com/user-attachments/assets/2944eb25-4a15-48d6-99e9-56c325198a18)
+
+ - 
+ - dfdf
+ - fdf
+ - dfdf
  

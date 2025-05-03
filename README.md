@@ -44,8 +44,6 @@
 
    - Cập nhật thông tin khách hàng
      ![image](https://github.com/user-attachments/assets/ddb3b349-e10e-4a9e-b2b1-6cdb8a75b2e5)
-
-   - dfdf
  - Giao diện quản lý đơn hàng
 ![image](https://github.com/user-attachments/assets/99c013c4-404a-409f-a164-3746a854f7cd)
    - Tạo đơn

@@ -1,0 +1,128 @@
+/**/
+.d-none{
+    display: none !important;
+};
+
+.d-block{
+    display: block !important;
+}
+
+.wd-50px{
+    width: 50px !important;
+}
+
+
+/**/
+
+/*Begin form Add Model*/
+#addRowModal{
+    display: none;
+    margin-top: 16px;
+    z-index: 2001;
+}
+
+.modal-content{
+    width: 480px;
+    margin: auto;
+}
+
+/*Img*/
+.frame{
+    width: 180px;
+    height: 180px;
+    cursor: pointer;
+}
+.frame:active{
+    border: 1px solid rgb(75, 100, 201);
+}
+.frame-select{
+    display: flex;
+    border: 2px dashed;
+    align-items: center;
+    justify-content: center;
+}
+.frame-select:hover{
+    cursor: pointer;
+    color: royalblue;
+}
+.frame-select  p{
+    font-size: 40px;
+    margin: 0;
+}
+.frame-avatar{
+    width: 100%;
+    height: 100%;
+}
+
+.small-frame{
+    width: 40px;
+    height: 40px;
+}
+/*BackDrop*/
+.backdrop{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;    
+    background-color: rgba(0, 0, 0, 0.5); /* mờ nền */
+    z-index: 2000;
+    overflow: hidden;
+}
+.no-scroll{
+    overflow: hidden;
+}
+
+/*End form Add Model*/
+
+/*Box search model*/
+.box{
+    position: relative;
+    z-index: 5;
+
+}
+.frame-search{
+    max-height: 300px;
+    overflow-y: auto;
+}
+.frame-search .item-list:hover
+{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+.frame-search .item-list:active
+{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+/*End Box search model*/
+
+/*Order*/
+.items{
+
+}
+.items>td{
+    border-bottom: 1px solid;
+}
+.items .item-avatar
+{
+}
+.items .item-name
+{
+    width: 50%;
+}
+.items .item-price
+{}
+.items .item-number
+{}
+.items .item-number input
+{
+
+}
+.items .item-total
+{
+    width: 15%;
+}
+.items .item-delete
+{}

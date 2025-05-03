@@ -1,0 +1,21 @@
+/* size */
+.full-screen{
+    width: 100vw;
+    height: 100vh;
+}
+.wd-400
+{
+    width: 400px;
+}
+
+
+/*Begin Login */
+.form-input{
+    margin: auto;
+    width: 400px;
+}
+
+.form-header{
+    text-align: center;
+}
+/*End Login*/

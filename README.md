@@ -68,7 +68,8 @@
    - Tạo phiếu nhập
   ![image](https://github.com/user-attachments/assets/4d6c6cb4-f163-4afe-9bf7-2a9c332eaa77)
    - Cập nhật phiếu nhập
-  
+  ![image](https://github.com/user-attachments/assets/3609b5cf-2784-4b99-b7e6-0ce7ddfc187e)
+
    - Danh sách phiếu kiểm hàng
    ![image](https://github.com/user-attachments/assets/70855fd0-2e95-4763-8c12-559914cb0197)
    - Tạo phiếu kiểm hàng
@@ -83,8 +84,4 @@
  - Giao diện báo cáo
     ![image](https://github.com/user-attachments/assets/2944eb25-4a15-48d6-99e9-56c325198a18)
 
- - 
- - dfdf
- - fdf
- - dfdf
  
